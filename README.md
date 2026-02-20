@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Software Engineering Student at 42 Berlin
 - 📫 How to reach me;  
+https://www.linkedin.com/in/silvatarcisio
 https://www.xing.com/profile/Tarcisio_Silva2/cv  
 https://www.youtube.com/@tarcisio2code
 
